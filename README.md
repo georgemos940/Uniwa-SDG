@@ -5,7 +5,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-# [Visit the Website](https://niaoubregatoula.github.io/Uniwa-SDG/)
+# [Visit the Website](https://georgemos940.github.io/Uniwa-SDG/)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3e8fab9c-6a32-48a0-befd-3cc72e0d1b74" alt="Project Logo" width="1080"/>
